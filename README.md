@@ -12,5 +12,5 @@
 <br>
 
 ## 보고서
-- [📈 Wrap-Up report](
+- [📈 Wrap-Up report]((https://github.com/user-attachments/files/18051858/Bigram.analyzer.pdf)
 )
